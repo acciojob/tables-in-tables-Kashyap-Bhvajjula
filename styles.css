@@ -1,2 +1,11 @@
-
 /* Your CSS Code here. */
+*{
+    text-align: center;
+}
+#eg1{
+    background-color: black;
+    color: white;
+}
+table{
+	align = "centre";
+}
